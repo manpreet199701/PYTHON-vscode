@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "github.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "Mysqlll",
+            "username": "manpreet_sqll",
+            "database": "MYSQL"
+        }
+    ]
+}
