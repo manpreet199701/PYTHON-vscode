@@ -4,4 +4,3 @@ while number<=12:
     print(number)
     number = number + 2
 print("Goodbye!")
-dddd
