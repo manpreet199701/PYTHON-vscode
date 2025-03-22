@@ -11,4 +11,4 @@ def ticket_master(ticket_no):  # function to check no of sheets to print
         return full_size
 ticket_no = int(input("Enter the number of tickets: "))
 print("The number of sheets required to print the tickets is: ")
-print(ticket_master(ticket_no)) >>>>
+print(ticket_master(ticket_no)) 
