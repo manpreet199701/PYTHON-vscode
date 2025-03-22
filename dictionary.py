@@ -22,6 +22,3 @@ print("new list",list_ed)
 
 list_m.pop('apple',2)
 print("new liiiiiist:",list_m)
-
-
-SKSNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNKNK
