@@ -3,9 +3,6 @@ name = input("Enter your name: ")
 address = input("Enter your address: ")
 
 list_1= [name , address,]
-
-
-m
 phone = input("Enter your phone number: ")
 email = input("Enter your email: ")
 
