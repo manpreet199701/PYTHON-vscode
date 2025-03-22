@@ -7,7 +7,7 @@ fname = input("Enter file name: ")
 count = 0
 total = 0
 try:
-    fh = open(fname)ddddd
+    fh = open(fname)
 except:
     print("File cannot be opened:", fname)  
     quit()
