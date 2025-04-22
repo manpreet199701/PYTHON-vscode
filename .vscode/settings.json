@@ -13,5 +13,11 @@
             "username": "manpreet_sqll",
             "database": "MYSQL"
         }
-    ]
+    ],
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
 }
